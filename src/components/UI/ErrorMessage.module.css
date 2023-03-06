@@ -1,0 +1,23 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content > h1 {
+  color: #670404;
+  font-size: 2rem;
+  font-weight: 500;
+  margin-top: 5rem;
+}
+
+.content > p {
+  font-size: 1.5rem;
+}
+
+.content > a {
+  margin-top: 3rem;
+  font-size: 1.2rem;
+  color: blue;
+  text-decoration: underline;
+}
